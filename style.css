@@ -1,0 +1,110 @@
+
+    body{
+        background-color: #976868;
+        text-align: center;
+    }
+
+    h1{
+        font-family: 'Brush Script MT', cursive;
+        font-size: 60px;
+    }
+
+    h2{
+        align-items: center;
+    }
+
+
+    p{
+        font-size: 24px;
+        font-family: 'Georgia';
+        padding: 35px;
+        margin: 35px;
+    }
+
+    .navbar{
+        font-size: 24px;
+        align-items: center;
+        text-decoration-color: #689797;
+        color:#689797;
+    }
+
+
+    .button1{
+        border: none;
+        color: rgb(73, 54, 43);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+            margin: 4px 2px;
+        cursor: pointer;
+            }
+
+    .description{
+        font-size: 24px;
+        background-color: #689797;
+        color: black;
+        padding-bottom: 5px;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+    a{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color:black;
+        font-size: 20px;
+        display: inline-block;
+        cursor: pointer;
+    }
+
+    a:link, a:visited {
+        background-color: #976868;
+        color:white;
+        border: 5px solid #689797;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      a:hover, a:active {
+        background-color:yellowgreen;
+        color: white;
+      }
+        
+    .menu-image{
+        vertical-align: middle;
+        border: 5px solid #71d6d6;
+        text-align: center;
+        margin-left: 40%;
+        margin-right: 40%;
+        color:#71d6d6;
+        background-color: #705353;
+    }
+
+    .times{
+        border: 5px solid #71d6d6;
+        text-align: center;
+        margin-left: 40%;
+        margin-right: 40%;
+        color:#71d6d6;
+        background-color: #705353;
+    }
+
+    img{
+        position: relative;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .price{
+        background-color: #689797;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 600px;
+      }
